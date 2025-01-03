@@ -1,7 +1,7 @@
 # musicboard-privacy
 # Privacy Policy for Music Board
 
-Last updated: [Current Date]
+Last updated: 1/3/25
 
 Music Board does not collect any personal data. All content and settings are stored locally on your device.
 
